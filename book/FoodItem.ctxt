@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numFatGrams\ numServings
+comment0.target=FoodItem(int,\ int)
+comment1.params=
+comment1.target=int\ calories()
+comment2.params=
+comment2.target=int\ caloriesPerServing()
+numComments=3

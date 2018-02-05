@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=SortedIntList(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ SortedIntList\r\n
+comment1.params=value
+comment1.target=void\ add(int)
+comment2.params=value
+comment2.target=int\ findInsertionPoint(int)
+comment3.params=location
+comment3.target=void\ shiftArray(int)
+numComments=4

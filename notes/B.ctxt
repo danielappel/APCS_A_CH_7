@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=B()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ B\r\n
+comment1.params=
+comment1.target=void\ firstMethod()
+comment2.params=num
+comment2.target=void\ firstMethod(int)
+numComments=3

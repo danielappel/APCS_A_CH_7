@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=s\ a
+comment0.target=Feline(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Feline\r\n
+comment1.params=
+comment1.target=void\ tryAccess()
+comment2.params=
+comment2.target=void\ whichVariables()
+numComments=3
